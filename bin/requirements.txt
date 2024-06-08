@@ -1,0 +1,9 @@
+# Lib for web
+flask
+
+# Lib for graph
+matplotlib
+pandas
+numpy
+
+# Lib statistics
